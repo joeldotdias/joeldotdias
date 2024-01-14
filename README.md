@@ -3,6 +3,6 @@
 - ⚡ Fun fact: I use Vim btw
 - 🌱 I’m currently learning Rust btw
 - 💬 Ask me about anything. I'll cut you off and talk about how great Rust is
-- Did I mention I use Vim
+- Did I mention I use Vim?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeldotdias&layout=compact)](https://github.com/joeldotdias/github-readme-stats&layout=compact)
