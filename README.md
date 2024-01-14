@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - ⚡ Fun fact: I use Vim btw
 - 🌱 I’m currently learning Rust btw
-- 💬 Ask me about anything. I'll cut you off and tell you about rust
+- 💬 Ask me about anything. I'll cut you off and tell you about Rust
 - Did I mention I use Vim
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeldotdias)](https://github.com/joeldotdias/github-readme-stats)
