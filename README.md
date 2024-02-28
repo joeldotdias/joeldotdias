@@ -1,4 +1,4 @@
-## 🍋🍋Lemons🍋🍋
+### 🍋🍋Lemons🍋🍋
 - ⚡ Fun fact: I use Neovim btw
 - 🌱 I’m currently learning Rust btw
 - 💬 Ask me about anything. I'll cut you off and talk about how great Rust is
